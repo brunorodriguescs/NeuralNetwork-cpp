@@ -1,0 +1,11 @@
+D:/Projetos/Portfolio/NeuralNetwork/vcpkg_installed/vcpkg/pkgs/openblas_x64-windows/debug/bin/getarch.exe
+D:/Projetos/Portfolio/NeuralNetwork/vcpkg_installed/vcpkg/pkgs/openblas_x64-windows/debug/bin/getarch_2nd.exe
+D:/Projetos/Portfolio/NeuralNetwork/vcpkg_installed/vcpkg/pkgs/openblas_x64-windows/debug/lib/openblas.lib
+D:/Projetos/Portfolio/NeuralNetwork/vcpkg_installed/vcpkg/pkgs/openblas_x64-windows/debug/bin/openblas.dll
+D:/Projetos/Portfolio/NeuralNetwork/vcpkg_installed/vcpkg/pkgs/openblas_x64-windows/debug/include/openblas/openblas_config.h
+D:/Projetos/Portfolio/NeuralNetwork/vcpkg_installed/vcpkg/pkgs/openblas_x64-windows/debug/include/openblas/cblas.h
+D:/Projetos/Portfolio/NeuralNetwork/vcpkg_installed/vcpkg/pkgs/openblas_x64-windows/debug/lib/pkgconfig/openblas.pc
+D:/Projetos/Portfolio/NeuralNetwork/vcpkg_installed/vcpkg/pkgs/openblas_x64-windows/debug/lib/cmake/OpenBLAS/OpenBLASConfig.cmake
+D:/Projetos/Portfolio/NeuralNetwork/vcpkg_installed/vcpkg/pkgs/openblas_x64-windows/debug/lib/cmake/OpenBLAS/OpenBLASConfigVersion.cmake
+D:/Projetos/Portfolio/NeuralNetwork/vcpkg_installed/vcpkg/pkgs/openblas_x64-windows/debug/lib/cmake/OpenBLAS/OpenBLASTargets.cmake
+D:/Projetos/Portfolio/NeuralNetwork/vcpkg_installed/vcpkg/pkgs/openblas_x64-windows/debug/lib/cmake/OpenBLAS/OpenBLASTargets-debug.cmake

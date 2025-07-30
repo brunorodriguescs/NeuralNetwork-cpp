@@ -1,0 +1,32 @@
+Package: vcpkg-cmake
+Version: 2024-04-23
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 7c166d5a6c03fb2938309b465d1d1aea34614d316210071a797c45fff11443eb
+Status: install ok installed
+
+Package: vcpkg-cmake-config
+Version: 2024-05-23
+Architecture: x64-windows
+Multi-Arch: same
+Abi: d9366b8e41c0edbb5b158f02fabc70ebe5d23cc77802f523736c7ac8e72bf484
+Status: install ok installed
+
+Package: openblas
+Version: 0.3.29
+Depends: vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 1d237bb39dac95baa1765c9dd477c1fb88d1754812050488c8072f4c19934f58
+Description: OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.
+Status: install ok installed
+
+Package: cblas
+Version: 2024-03-19
+Depends: openblas, vcpkg-cmake
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 67c332fee6de6ab000c8f6d79aa2507b850e3acc425d97f3ab1ad6180b97a94c
+Description: Metapackage for packages which provide CBLAS
+Status: install ok installed
+

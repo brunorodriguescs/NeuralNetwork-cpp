@@ -1,0 +1,7 @@
+Package: cblas
+Version: 2024-03-19
+Depends: openblas, vcpkg-cmake
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 67c332fee6de6ab000c8f6d79aa2507b850e3acc425d97f3ab1ad6180b97a94c
+Description: Metapackage for packages which provide CBLAS
